@@ -8,3 +8,4 @@
 | Chapter    | Title     | Code file implementation
 | --- | --- | --- |
 | 1    | Vector      | vector-implementation/Essence-of-linear-algebra.py
+| 2   | Linear combinations, span, and basis vectors | 
