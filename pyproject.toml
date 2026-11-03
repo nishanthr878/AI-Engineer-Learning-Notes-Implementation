@@ -1,14 +1,8 @@
 [project]
 name = "ai-engineering-from-scratch"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-authors = [
-    { name = "Nishanth", email = "nishanthr878@gmail.com" }
-]
 requires-python = ">=3.14"
 dependencies = [
-    "nltk>=3.10.4",
-    "spacy>=3.8.16",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
 ]
-
