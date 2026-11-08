@@ -3,6 +3,14 @@ name = "ai-engineering-from-scratch"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
+    "graphviz>=0.21",
     "matplotlib>=3.11.2",
+    "matplotlib-inline>=0.2.2",
     "numpy>=2.5.4",
+    "torch>=2.15.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
 ]
